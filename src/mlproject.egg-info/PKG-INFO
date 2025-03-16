@@ -1,0 +1,15 @@
+Metadata-Version: 2.2
+Name: mlproject
+Version: 0.0.0
+Home-page: https://github.com/venkatg2595/MLOPS_END_TO_END_PROJECT
+Author: venkatg2595
+Author-email: venkatg2595@gmail.com
+Project-URL: Bug Tracker, https://github.com/venkatg2595/MLOPS_END_TO_END_PROJECT/
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: project-url
+
+long_description
