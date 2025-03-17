@@ -62,7 +62,7 @@ Id CommandLine
 2. project utilitie ---> logging, exceptions, utiles model
 3. project workflows
 
-
+# noteook experiment:
 1. load and read the data
 2. trian the model
 3. predic the model
