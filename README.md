@@ -67,3 +67,35 @@ Id CommandLine
 2. trian the model
 3. predic the model
 4. evalute the model using metric
+
+# Logging:
+to generate log formate and and export logs into log folder for that need to use logging
+
+# Utiles:
+
+Rather than using muliple folders of commons files just need to mention at common file and call them to where ever is required.
+
+# Workflow:
+1. update config.yaml
+2. update schema.yaml
+3. update params.yaml 
+4. update the entity
+5. update the configuration manager in src config
+6. update the components
+7. update the pipeline
+8. update the main.py
+9. update the app.py
+
+
+# As of now covered 
+1. Project introduction
+2. Git repo setup
+3. Project template
+4. Requirements installation
+
+5. Project utils
+    1. logging
+    2. exceptions
+    3. utils
+6. Notebook experiment
+7. project workflows
